@@ -81,7 +81,8 @@ Conduct informational interviews with Electronics Engineers to network with indu
 
 ---
 ### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
-![The Electronics Engineering Career Readiness Skill Stack Pyramid](Progressive_Skill_Stack_Pyramid.png)
+<img width="804" height="1626" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/40019d24-6a3e-42e2-bfb7-e7e0ea76c5b6" />
+
 
 ---
 ## References
