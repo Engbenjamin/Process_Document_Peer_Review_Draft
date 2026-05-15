@@ -6,16 +6,19 @@ Eng Benjamin, Process Document Peer Review Draft
 ## Table of Contents
   - [Purpose](#Purpose)
   - [Strategic Coursework & Technical Foundations](#Strategic-Coursework-&-Technical-Foundations)
-    - [Choosing The Proper Elective Classes](#Choosing-The-Proper-Elective-Classes)
+    - [Choosing Relevant Classes](#Choosing-Relevant-Classes)
       - [Embedded Systems Classes](#Embedded-Systems)
       - [Electrical Sensors Classes](#Electrical-Sensors)
+      - [C++](#C++)
     - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
     - [FPGA Design Experience](#FPGA-Digital-Design)
   - [Professional Engagement and Industry Literacy](#Professional-Engagement-and-Industry-Literacy)
-    - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
-    - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
-    - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
-    - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
+    - [Industry Trends](#Industy-Trends)
+      - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
+      - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
+    - [Networking](#Networking)
+      - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
+      - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
   - [The Career Readiness Framework](#The-Career-Readiness-Framework)
   - [References](#References)
 ---
@@ -27,7 +30,7 @@ If you are interested becoming an Electronics Engineer, you may have questions a
 ## Strategic Coursework & Technical Foundations
 Your portfolio should document proficiency in some or all of these skills. [^1]
 
-### Choosing The Proper Elective Classes
+### Choosing Relevant Classes
 
 #### Embedded Systems
 Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
@@ -39,18 +42,18 @@ A core part of any electronic system are the inputs. Courses covering electrical
 
 Take the EE elective course BEE 484 Sensors and Sensor Systems
 
+#### C++ 
+This is a critical part of embedded electronics and is the industry standard for firmware across many domains. 
+
+Take the CSS 142/143 C++ track of classes instead of the CSS 132/133 course track when fulfilling your degree's programming requirements. 
+
 ### Core Software Tools
-Three core software used in Electronics Engineering are Python, C++, and MATLAB. They serve different but important purposes.
+Core software used in Electronics Engineering are Python and MATLAB. They serve different but important purposes.
 
 #### Python
 This is a generic tool for modern electronics labs, widely used to automate testing and analyze data. 
 
 Enroll in the free "Automate the Boring Stuff with Python" curriculum to learn script automation, then practice data visualization using the Matplotlib and NumPy libraries to present your electrical test results.
-
-#### C++ 
-This is a critical part of embedded electronics and is the industry standard for firmware across many domains. 
-
-Take the CSS 142/143 C++ track of classes instead of CSS 132/133 when fulfilling your degree's programming requirements. 
 
 #### MATLAB 
 This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
@@ -64,15 +67,23 @@ Obtain an educational FPGA board such as a Terasic FPGA Development Board or a D
 
 ---
 ## Professional Engagement and Industry Literacy
-### Subscribe to Club Newsletters
+
+### Industry Trends
+#### Subscribe to Club Newsletters
 Clubs like the IEEE have online newsletters that cover topics such as the latest university research, product spotlights, jobs, and the engineering workplace. 
 
 Subscribe to the IEEE newsletter on the website and have them delivered to your email.
 
-### Search Job Boards For Electronics Engineering Roles
+#### Search Job Boards For Electronics Engineering Roles
 Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
 
 Subscribe to job sites under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
+
+### Networking
+### Connect With Classmates and Professors Online
+Connecting with classmates and professors directly connects you with like-minded individuals in your field of study. These connections could provide leads or references for your first role after graduation.
+
+Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake.
 
 ### Conduct Informational Interviews
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may be another avenue upon which you can connect with a future company. Like recruiters, they may know of job postings before they become public and may move your resume to their hiring manager. 
@@ -81,7 +92,8 @@ Conduct informational interviews with Electronics Engineers to network with indu
 
 ---
 ### Figure 1: The Electronics Engineering Career Readiness Skill Stack Pyramid
-<img width="804" height="1626" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/40019d24-6a3e-42e2-bfb7-e7e0ea76c5b6" />
+<img width="402" height="813" alt="Progressive_Skill_Stack_Pyramid" src="https://github.com/user-attachments/assets/041cef3a-8d53-42ee-8de5-2b81cc1b218a" />
+
 
 
 ---
