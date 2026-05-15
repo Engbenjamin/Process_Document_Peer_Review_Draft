@@ -53,17 +53,17 @@ Core software used in Electronics Engineering are Python and MATLAB. They serve 
 #### Python
 This is a generic tool for modern electronics labs, widely used to automate testing and analyze data. 
 
-Enroll in the free "Automate the Boring Stuff with Python" curriculum to learn script automation, then practice data visualization using the Matplotlib and NumPy libraries to present your electrical test results.
+Enroll in the free "Automate the Boring Stuff with Python" curriculum to learn script automation.
 
 #### MATLAB 
 This is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design.
 
-Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can display on your LinkedIn profile, and utilize the Power Systems Toolbox to simulate circuit behavior before moving to physical prototyping.
+Complete the "MATLAB Onramp" and "Simulink Onramp" courses via the MathWorks website to earn certifications you can display on your LinkedIn profile.
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
-Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
+Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board. Navigate to Digilent’s Reference Community or FPGA4student.com to access comprehensive introductory hardware guides and structured baseline projects.
 
 ---
 ## Professional Engagement and Industry Literacy
